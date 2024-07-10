@@ -2,7 +2,7 @@
     "sc3d.dev": {
         "location": "python-nerd-3/goognet-dns",
         "branch": "main",
-        "homepage": "test.gnpl"
+        "homepage": "index.gnpl"
     },
     "sc3.dev": {
         "location": "redirect:sc3d.dev"
