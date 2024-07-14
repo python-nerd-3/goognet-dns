@@ -6,5 +6,9 @@
     },
     "sc3.dev": {
         "location": "redirect:sc3d.dev"
+    },
+    "googsite.io": {
+        "location": "xjsnc/googsite",
+        "branch": "main"
     }
 }
