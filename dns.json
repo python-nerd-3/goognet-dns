@@ -1,7 +1,7 @@
 {
     "sc3d.dev": {
         "location": "the-goognet/goognet-dns",
-        "branch": "main",
+        "branch": "main"
     },
     "sc3.dev": {
         "location": "redirect:sc3d.dev"
