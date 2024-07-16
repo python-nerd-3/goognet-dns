@@ -3,6 +3,10 @@
         
     </head>
     <body>
+        <title>Welcome to my GOOG-Site!</title>
+        <subtitle>by sc3d</subtitle>
+        <heading>Hope you enjoy your stay here</heading>
+        <subheading>Small Title</subheading>
         <p>
             goog job you did it
         </p>
