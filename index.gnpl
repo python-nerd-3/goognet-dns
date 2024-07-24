@@ -5,8 +5,12 @@
     <body>
         <title>Welcome to about.goog!</title>
         <subtitle>User Help</subtitle>
-        
+        <link url="about.goog/user/websites.gnpl">List of websites</link>
         <subtitle>Developer Help</subtitle>
-
+        <link url="about.goog/developer/dns.gnpl">DNS</link>
+        <link url="about.goog/developer/viewing.gnpl">Viewing and Publishing</link>
+        <link url="about.goog/developer/tlds.gnpl">Valid TLDs</link>
+        <link url="int://https://github.com/the-goognet/goognet-dns/wiki">Docs (Unfinished)</link>
+        <subtitle>Tests</subtitle>
     </body>
 </gnpl>

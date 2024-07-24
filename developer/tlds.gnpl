@@ -1,0 +1,18 @@
+<gnpl>
+    <head>
+
+    </head>
+    <body>
+        <subtitle>List of all TLDs</subtitle>
+        <ul>
+            <li>.goog</li>
+            <li>.it</li>
+            <li>.io</li>
+            <li>.dev</li>
+            <li>.exe</li>
+            <li>.gov</li>
+            <li>.poley</li>
+        </ul>
+        <p>More will be added in the future via request.
+    </body>
+</gnpl>

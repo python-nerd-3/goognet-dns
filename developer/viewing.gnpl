@@ -1,0 +1,13 @@
+<gnpl>
+    <head>
+
+    </head>
+    <body>
+        <p>Websites can be viewed without a domain via GitHub repository.</p>
+        <p>The GitHub url is formatted like this: "/user/repo/branch/index.gnpl".</p>
+        <link url="python-nerd-3/goognet-dns/main/index.gnpl">Example</link>
+        <p>Your websites can be published with a domain at the Goognet DNS.</p>
+        <link url="about.goog/developer/dns.gnpl">DNS Link</link>
+        <link url="about.goog/developer/tlds.gnpl">Valid TLDs</link>
+    </body>
+</gnpl>
