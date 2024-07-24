@@ -6,6 +6,10 @@
     "sc3.dev": {
         "location": "redirect:sc3d.dev"
     },
+    "about.goog": {
+        "location": "the-goognet/goognet-dns",
+        "branch": "main"
+    },
     "googsite.io": {
         "location": "xjsnc/googsite",
         "branch": "main"

@@ -1,0 +1,12 @@
+<gnpl>
+    <head>
+
+    </head>
+    <body>
+        <p>The DNS is the list of all active websites with domains.</p>
+        <br>
+        <p>It is manually updated. You can leave an issue to request your website to be published or</p>
+        <p>something to be fixed/updated. This website is also hosted on it.</p>
+        <link url="int://https://github.com/the-goognet/goognet-dns">DNS Repo</link>
+    </body>
+</gnpl>

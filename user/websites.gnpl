@@ -1,0 +1,16 @@
+<gnpl>
+    <head>
+
+    </head>
+    <body>
+        <subtitle>List of Websites</subtitle>
+        <p>Currently there is not a browser but one will be made within the near future.</p>
+        <p>Here is a list of websites you can visit:</p>
+        <ul>
+            <li>about.goog: the website you're on right now</li>
+            <li>googsite.io: idk lol</li>
+        </ul>
+        <p>This may not be a comprehensive list. For a more frequently updated one, visit the DNS.</p>
+        <link url="about.goog/developer/dns.gnpl">Link to DNS page</p>
+    </body>
+</gnpl>
