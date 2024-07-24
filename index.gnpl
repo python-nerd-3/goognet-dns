@@ -4,6 +4,7 @@
     </head>
     <body>
         <title>Welcome to about.goog!</title>
+        <subheading>Website currently under construction</subheading>
         <subtitle>User Help</subtitle>
         <link url="about.goog/user/websites.gnpl">List of websites</link>
         <subtitle>Developer Help</subtitle>
@@ -12,5 +13,9 @@
         <link url="about.goog/developer/tlds.gnpl">Valid TLDs</link>
         <link url="int://https://github.com/the-goognet/goognet-dns/wiki">Docs (Unfinished)</link>
         <subtitle>Tests</subtitle>
+        <link url="about.goog/tests/test1.gnpl">Test 1</link>
+        <link url="about.goog/tests/test2.gnpl">Test 2</link>
+        <link url="about.goog/tests/test3.gnpl">Test 3</link>
+        <link url="about.goog/tests/test4.gnpl">Test 4</link>
     </body>
 </gnpl>
