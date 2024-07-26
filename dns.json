@@ -13,5 +13,9 @@
     "googsite.io": {
         "location": "xjsnc/googsite",
         "branch": "main"
+    },
+    "tlnca.io": {
+        "location": "python-nerd-3/tlnca",
+        "branch": "main"
     }
 }
